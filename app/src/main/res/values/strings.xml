@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raydius Demo</string>
+    <string name="title_activity_beacon_searcher">Looking for beacons..</string>
+</resources>
